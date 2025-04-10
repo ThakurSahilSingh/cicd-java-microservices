@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DOCKER_HUB_USER = 'samimmondal'
+        DOCKER_HUB_USER = 'sahil0824'
     }
 
     stages {
